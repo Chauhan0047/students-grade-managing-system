@@ -1,28 +1,28 @@
 Student Grade Management System
-Overview
+
+Overview:
 This Python script manages student grades using a dictionary. It allows you to add, update, delete, and view student records. The script includes a simple command-line interface for interaction.
 
-Features
+Features:
 Add Students: Add new student records with their grades.
 Update Students: Update the grades of existing students.
 Delete Students: Remove student records.
 View Students: Display all student records.
 
-Requirements
+Requirements:
 Python 3.x
 
-Installation
+Installation:
 Clone the repository:
-Copy code = git clone https://github.com/yourusername/student-grade-management.git
+Copy code = https://github.com/Chauhan0047/students-grade-managing-system.git
 
 
 Navigate to the project directory:
 Copy code = cd student-grade-management
 
 
-Usage
-Run the script:
-Copy code = python student_grade_management.py
+Usage:
+Run the script: python student_grade_management.py
 
 
 Follow the on-screen menu to interact with the system:
@@ -34,8 +34,8 @@ View Students: Choose option 4 to view all student records.
 Exit: Choose option 5 to exit the application.
 
 
-Example Usage
-Here's how you might use the script:
+Example Usage:
+Here's how you might use the script
 Copy code:{
 Student grade managing system...
 1. Add students
@@ -55,11 +55,11 @@ Enter your choice(in numbers): 5
 Exiting...
 }
 
-Code Details
+Code Details:
 add_students(student_name, grade): Adds a new student's record.
 update_students(student_name, grade): Updates the grade of an existing student.
 delete_students(student_name): Deletes a student's record.
 display_students(): Displays all student records.
 
-Contributing
+Contributing:
 Feel free to open issues or submit pull requests if you have any suggestions or improvements.
